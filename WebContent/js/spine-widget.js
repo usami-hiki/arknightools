@@ -7561,7 +7561,7 @@ var spine;
 				config.preserveDrawingBuffer = true;
 			// console.log(config.preserveDrawingBuffer)
 			this.backgroundColor.setFromString(config.backgroundColor);
-			
+
 			this.config = config;
 		};
 		SpineWidget.prototype.load = function () {

@@ -4,36 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta name="theme-color" content="#222222ff">
   <title translate-id="web-title">Arknights Operator Details</title>
-  <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/ak.css">
-  <link rel="stylesheet" href="css/akMaterial.css">
   <link rel="stylesheet" href="css/akchardetail.css">
   <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.1/css/all.css" rel="stylesheet">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
   <script src="js/spine-widget.js"></script>
   <script src="js/spine-skeleton-binary.js"></script>
-  <!-- site tag (gtag.js) - Google Analytics -->
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-159317757-1"></script>
 </head>
 <body>
-  <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'UA-159317757-1');
-
-    </script>
-  <script>
-            $(function(){
-              $('#nav-placeholder').load('nav.html');
-            });
-     </script>
-
 
   <div class="col-md-12 col-sm-12 " style="margin: auto; max-width: 1000px; padding: 0">
     <div class="row">
@@ -58,13 +39,6 @@
                     <div id="spine-widget" class="top-layer" style="position: absolute; width: 1800px; height: 1800px; top: -750px; left: -750px; pointer-events: none; z-index: 20; transform: scale(0.5);">
                       <canvas width="1800" height="1800" style="width: 100%; height: 100%;"></canvas>
                     </div>
-                  </div>
-                  <div id="spine-frame-token" class="ak-disable" style="position: absolute; width: 300px; height: 300px; bottom: -42px; left: 345px; transform: scale(0.75)">
-                    <div id="spine-frame-tokenheader" class="btn btn-sm ak-sm-btn" ondblclick="Mirror($('#spine-frame-token'))" style="display: inline-block; cursor: move; pointer-events: all; transform: scale(2); margin: 0px; position: absolute; left: 140px; top: 90px; opacity: 0;">
-                      <i class="fas fa-arrows-alt"></i>
-                    </div>
-                    <div id="spine-widget-token" class="top-layer" style="position: absolute; width: 1800px; height: 1800px; top: -775px; left: -750px; pointer-events: none; z-index: 20; transform: scale(0.5);"></div>
-                    <!-- scaling 0.5 for "supersampling" chibi -->
                   </div>
 
                 </div>
