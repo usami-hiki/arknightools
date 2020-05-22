@@ -40,7 +40,7 @@ body {
 
 #opchoosemodal a.nav-link.active {
     background-color: #4f4f4f !important;
-    color: white !important;
+    color: white !important; 
     border-color: #3a3a3a !important;
     border-bottom: 0px !important;
 }
@@ -70,7 +70,7 @@ body {
 .selectop-list:hover {
     cursor: pointer;
     background-color: unset;
-
+    
 }
 
 .selectop-list:active {
@@ -118,7 +118,7 @@ body {
     background-color: #666666;
     color: white;
     transition-duration: 200ms;
-
+    
 }
 
 .selectop-grid:hover {
@@ -204,7 +204,7 @@ body {
 }
 
 .chara-detail-container {
-    width: 100%;
+    width: 100%; 
     height: 100vw;
     max-height: 700px;
     background-color: rgb(54, 54, 54);
@@ -303,14 +303,14 @@ body {
     display: inline-block;
     padding: 12px;
     padding-top:22px;
-
+    
     font-size: 1em;
     position: absolute;
     color: white;
 }
 
 .chara-detail-container .small-container .topright, #skill-contents .topright {
-    float: right;
+    float: right; 
     margin-top: -40px;
     width: 80px;
     position: relative;
@@ -431,7 +431,7 @@ body {
 
 .chara-detail-container .tabbing-btns.active {
     background-color: #4f4f4f;
-    border: 1px solid #3a3a3a;
+    border: 1px solid #3a3a3a; 
 }
 
 .chara-detail-container .tabbing-btns:hover {
@@ -466,6 +466,25 @@ body {
     padding: unset;
 }
 
+.general-stats-container {
+    position: absolute;
+    height: auto!important;
+}
+
+.general-stats-container p {
+    position: initial;
+    font-size: 1em;
+    top: 0;
+    color: white;
+    font-family: 'NotoSansHans Light', Arial, sans-serif;
+}
+
+.general-stats-container .topright {
+    position: absolute!important;
+    right: 0px;
+    top: 0px;
+}
+
 #op-displaynum {
     position: absolute;
     font-weight: 700;
@@ -479,6 +498,30 @@ body {
     padding-right:2px;
 
     right:75px;
+}
+.general-stats-container .op-name {
+    top: -65px;
+    height:55px;
+    background-color:#2f2f2f; 
+    border-radius: 4px 4px 0px 0px;
+    padding-top:5px;
+    top: -65px;
+    left: 0px;
+    width: 100%;
+    border-radius:unset;
+    box-shadow: 2px 0px 8px #111;
+}
+
+
+
+.general-stats-container .op-name, .general-stats-container .op-name span {
+    display: inline-block;
+    padding: 10px;
+    padding-bottom:55px;
+    font-size: 1.2em;
+    position: absolute;
+    color: white;
+    
 }
 
 .general-statcard {
@@ -530,11 +573,11 @@ body {
     width: 65%;
     display: inline-block;
     line-height: 0px;
-
+    
     height: 25px;
     margin-left: 10px ;
-    opacity: 0.7;
-    -webkit-transition: .2s;
+    opacity: 0.7; 
+    -webkit-transition: .2s; 
     transition: opacity .2s;
     background: #bbb;
     touch-action: none;
@@ -627,7 +670,7 @@ body {
     /* margin-right: 10px; */
     border-radius: 0px 2px 2px 0px;
     margin-bottom:2px;
-    margin-top:2px
+    margin-top:2px  
 }
 
 .text-shadow {
@@ -681,7 +724,7 @@ body {
 .stat-important{
     padding-left: 2px;
     padding-right: 2px;
-    border-radius: 4px;
+    border-radius: 4px; 
     background: #373737;
     display: inline-block;
     color:#00B3FD;
@@ -796,7 +839,7 @@ body {
     width:100%;
     height:100%;
     margin-bottom:20px;
-
+   
 }
 .story-table th{
     padding:4px;
@@ -865,11 +908,11 @@ body {
     max-width : 180px;
     display: inline-block;
     line-height: 0px;
-
+    
     height: 25px;
     margin-left: 2px ;
-    opacity: 0.7;
-    -webkit-transition: .2s;
+    opacity: 0.7; 
+    -webkit-transition: .2s; 
     transition: opacity .2s;
     background: #bbb;
     touch-action: none;
@@ -881,7 +924,7 @@ body {
 .statlevelInput::-moz-range-thumb {
     width: 20px;
     height: 20px;
-
+    
     /* margin-bottom: 10px; */
     /* padding-bottom:20px; */
     border: 2px solid #bbb;
@@ -912,7 +955,7 @@ body {
     bottom:0px;
     padding-left: 200px;
     margin: 0px;
-    background-color: rgb(52, 52, 52);
+    background-color: rgb(52, 52, 52);  
     border-top: 1px solid rgb(71, 71, 71);
 }
 #bottom-nav:before{
@@ -1135,6 +1178,9 @@ body {
 .modal-body{
     padding: 8px 4px;
 }
+#selectedopclass{
+    
+}
 .storyrow{
     margin-right: 0px;
     margin-left: 0px
@@ -1163,7 +1209,7 @@ body {
 }
 
 @media (max-width: 767px ){
-
+    
     .fixedNav{
         bottom:-1000px!important;
         z-index: 0  ;
@@ -1199,7 +1245,7 @@ body {
         max-width: 30px !important;
         max-height: 30px !important;
     }
-
+    
     #spine-frame{
         /* left:120px !important;    */
         left: calc(80px + 18vw) !important;
@@ -1219,7 +1265,7 @@ body {
     #spine-toolbar{
         left: calc(80px + 18vw) !important;
     }
-
+    
     .ak-cutcorner-rt{
         z-index: 0;
     }
@@ -1229,7 +1275,7 @@ body {
     #Chibi-nav{
         z-index: 0;
     }
-
+    
     #infonav{
         position: absolute;
         left:69px !important;
@@ -1275,7 +1321,7 @@ body {
         margin-bottom: 100px;
         /* height: 100%; */
     }
-
+    
     .chara-detail-container .tabbing-btns {
         height: 50px;
         width: 40px;
@@ -1363,8 +1409,8 @@ body {
         display: inline-block;
         line-height: 0px;
         z-index:2;
-        opacity: 0.7;
-        -webkit-transition: .2s;
+        opacity: 0.7; 
+        -webkit-transition: .2s; 
         transition: opacity .2s;
         background: #eee;
         transform: rotate(-90deg)
@@ -1404,7 +1450,7 @@ body {
     .statlevelcontainer{
         min-height: 240px;
     }
-
+    
     .righthand-statlevelInput {
         -webkit-appearance: none;  /* Override default CSS styles */
         appearance: none;
@@ -1415,8 +1461,8 @@ body {
         display: inline-block;
         line-height: 0px;
         z-index:2;
-        opacity: 0.7;
-        -webkit-transition: .2s;
+        opacity: 0.7; 
+        -webkit-transition: .2s; 
         transition: opacity .2s;
         background: #eee;
         transform: rotate(-90deg)
@@ -1432,8 +1478,8 @@ body {
         display: inline-block;
         line-height: 0px;
         z-index:2;
-        opacity: 0.7;
-        -webkit-transition: .2s;
+        opacity: 0.7; 
+        -webkit-transition: .2s; 
         transition: opacity .2s;
         background: #eee;
         transform: rotate(-90deg)
@@ -1448,8 +1494,8 @@ body {
         display: inline-block;
         line-height: 0px;
         z-index:2;
-        opacity: 0.7;
-        -webkit-transition: .2s;
+        opacity: 0.7; 
+        -webkit-transition: .2s; 
         transition: opacity .2s;
         background: #eee;
         transform: rotate(-90deg)
