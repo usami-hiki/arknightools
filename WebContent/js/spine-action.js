@@ -4,7 +4,9 @@
 $.holdReady(true);
 
 const anim_default = [ "Start", "Idle" ];
+const anim_default_o = [ {name : "Start"}, { name : "Idle"} ];
 const base_default = [ "Relax" ];
+const base_default_o = [ {name : "Relax"} ];
 
 const jsonList = {
 	chars : "./json/charadata.json"
@@ -16,7 +18,7 @@ LoadAllJsonObjects(jsonList).then(function(result) {
     $.holdReady(false);
 });
 
-var animations = [ {name : "Start"}, { name : "Idle"} ];
+var animations;
 var animationqueue;
 var togglenum = true;
 
@@ -66,6 +68,7 @@ $(document).ready(function() {
 	$("#type").change(function(){
 
 		$("#ope,#coord,#type").prop("disabled", true);
+		animations = $("#type").val() == "base" ? base_default_o : anim_default_o;
 		LoadAnimation($("#type").val() == "base" ? base_default : anim_default);
 	});
 
