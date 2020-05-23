@@ -1,193 +1,193 @@
-char_010_chen char_010_chen
-char_010_chen char_010_chen_nian_2
-char_112_siege char_112_siege
-char_112_siege char_112_siege_wild_2
-char_147_shining char_147_shining
-char_147_shining char_147_shining_summer_1
-char_179_cgbird char_179_cgbird
-char_179_cgbird char_179_cgbird_witch_1
-char_134_ifrit char_134_ifrit
-char_134_ifrit char_134_ifrit_summer_1
-char_134_ifrit char_134_ifrit_kfc_1
-char_180_amgoat char_180_amgoat
-char_103_angel char_103_angel
-char_103_angel char_103_angel_wild_1
-char_103_angel char_103_angel_kfc_1
-char_291_aglina char_291_aglina
-char_291_aglina char_291_aglina_boc_1
-char_172_svrash char_172_svrash
-char_172_svrash char_172_svrash_snow_1
-char_136_hsguma char_136_hsguma
-char_136_hsguma char_136_hsguma_nian_3
-char_202_demkni char_202_demkni
-char_202_demkni char_202_demkni_boc_1
-char_263_skadi char_263_skadi
-char_340_shwaz char_340_shwaz
-char_340_shwaz char_340_shwaz_snow_1
-char_188_helage char_188_helage
-char_248_mgllan char_248_mgllan
-char_213_mostma char_213_mostma
-char_017_huang char_017_huang
-char_225_haak char_225_haak
-char_2014_nian char_2014_nian
-char_2013_cerber char_2013_cerber
-char_222_bpipe char_222_bpipe
-char_250_phatom char_250_phatom
-char_113_cqbw char_113_cqbw
-char_400_weedy char_400_weedy
-char_230_savage char_230_savage
-char_102_texas char_102_texas
-char_102_texas char_102_texas_winter_1
-char_115_headbr char_115_headbr
-char_115_headbr char_115_headbr_marthe_2
-char_128_plosis char_128_plosis
-char_128_plosis char_128_plosis_epoque_3
-char_108_silent char_108_silent
-char_108_silent char_108_silent_sweep_1
-char_171_bldsk char_171_bldsk
-char_171_bldsk char_171_bldsk_witch_1
-char_002_amiya char_002_amiya
-char_002_amiya char_002_amiya_winter_1
-char_002_amiya char_002_amiya_epoque_4
-char_164_nightm char_164_nightm
-char_166_skfire char_166_skfire
-char_166_skfire char_166_skfire_summer_1
-char_144_red char_144_red
-char_215_mantic char_215_mantic
-char_173_slchan char_173_slchan
-char_173_slchan char_173_slchan_wwf_1
-char_173_slchan char_173_slchan_wild_1
-char_241_panda char_241_panda
-char_241_panda char_241_panda_marthe_1
-char_145_prove char_145_prove
-char_129_bluep char_129_bluep
-char_158_milu char_158_milu
-char_158_milu char_158_milu_wild_2
-char_219_meteo char_219_meteo
-char_219_meteo char_219_meteo_sweep_1
-char_204_platnm char_204_platnm
-char_174_slbell char_174_slbell
-char_174_slbell char_174_slbell_snow_1
-char_195_glassb char_195_glassb
-char_242_otter char_242_otter
-char_101_sora char_101_sora
-char_101_sora char_101_sora_summer_1
-char_106_franka char_106_franka
-char_143_ghost char_143_ghost
-char_143_ghost char_143_ghost_winter_1
-char_155_tiger char_155_tiger
-char_140_whitew char_140_whitew
-char_140_whitew char_140_whitew_boc_1
-char_148_nearl char_148_nearl
-char_107_liskam char_107_liskam
-char_107_liskam char_107_liskam_nian_2
-char_163_hpsts char_163_hpsts
-char_201_moeshd char_201_moeshd
-char_201_moeshd char_201_moeshd_kfc_1
-char_220_grani char_220_grani
-char_308_swire char_308_swire
-char_308_swire char_308_swire_nian_2
-char_326_glacus char_326_glacus
-char_348_ceylon char_348_ceylon
-char_274_astesi char_274_astesi
-char_131_flameb char_131_flameb
-char_279_excu char_279_excu
-char_279_excu char_279_excu_boc_1
-char_275_breeze char_275_breeze
-char_243_waaifu char_243_waaifu
-char_325_bison char_325_bison
-char_261_sddrag char_261_sddrag
-char_356_broca char_356_broca
-char_367_swllow char_367_swllow
-char_367_swllow char_367_swllow_boc_1
-char_383_snsant char_383_snsant
-char_226_hmau char_226_hmau
-char_306_leizi char_306_leizi
-char_252_bibeak char_252_bibeak
-char_379_sesa char_379_sesa
-char_254_vodfox char_254_vodfox
-char_333_sidero char_333_sidero
-char_401_elysm char_401_elysm
-char_198_blackd char_198_blackd
-char_198_blackd char_198_blackd_winter_1
-char_149_scave char_149_scave
-char_290_vigna char_290_vigna
-char_290_vigna char_290_vigna_summer_1
-char_117_myrrh char_117_myrrh
-char_117_myrrh char_117_myrrh_wild_1
-char_187_ccheal char_187_ccheal
-char_187_ccheal char_187_ccheal_epoque_2
-char_181_flower char_181_flower
-char_181_flower char_181_flower_daily_1
-char_141_nights char_141_nights
-char_109_fmout char_109_fmout
-char_109_fmout char_109_fmout_epoque_2
-char_237_gravel char_237_gravel
-char_236_rope char_236_rope
-char_236_rope char_236_rope_witch_1
-char_277_sqrrel char_277_sqrrel
-char_118_yuki char_118_yuki
-char_126_shotst char_126_shotst
-char_235_jesica char_235_jesica
-char_235_jesica char_235_jesica_nian_2
-char_235_jesica char_235_jesica_wild_2
-char_235_jesica char_235_jesica_sweep_1
-char_110_deepcl char_110_deepcl
-char_183_skgoat char_183_skgoat
-char_130_doberm char_130_doberm
-char_127_estell char_127_estell
-char_137_brownb char_137_brownb
-char_185_frncat char_185_frncat
-char_193_frostl char_193_frostl
-char_289_gyuki char_289_gyuki
-char_150_snakek char_150_snakek
-char_150_snakek char_150_snakek_wild_1
-char_196_sunbr char_196_sunbr
-char_196_sunbr char_196_sunbr_summer_1
-char_199_yak char_199_yak
-char_199_yak char_199_yak_summer_1
-char_253_greyy char_253_greyy
-char_298_susuro char_298_susuro
-char_151_myrtle char_151_myrtle
-char_260_durnar char_260_durnar
-char_190_clour char_190_clour
-char_355_ethan char_355_ethan
-char_133_mm char_133_mm
-char_302_glaze char_302_glaze
-char_385_finlpp char_385_finlpp
-char_337_utage char_337_utage
-char_159_peacok char_159_peacok
-char_301_cutter char_301_cutter
-char_123_fang char_123_fang
-char_123_fang char_123_fang_winter_1
-char_240_wyvern char_240_wyvern
-char_192_falco char_192_falco
-char_120_hibisc char_120_hibisc
-char_120_hibisc char_120_hibisc_nian_1
-char_212_ansel char_212_ansel
-char_212_ansel char_212_ansel_summer_1
-char_121_lava char_121_lava
-char_210_stward char_210_stward
-char_124_kroos char_124_kroos
-char_124_kroos char_124_kroos_witch_1
-char_211_adnach char_211_adnach
-char_278_orchid char_278_orchid
-char_208_melan char_208_melan
-char_208_melan char_208_melan_epoque_1
-char_122_beagle char_122_beagle
-char_209_ardign char_209_ardign
-char_209_ardign char_209_ardign_snow_1
-char_282_catap char_282_catap
-char_283_midn char_283_midn
-char_283_midn char_283_midn_boc_1
-char_281_popka char_281_popka
-char_284_spot char_284_spot
-char_502_nblade char_502_nblade
-char_501_durin char_501_durin
-char_009_12fce char_009_12fce
-char_503_rang char_503_rang
-char_500_noirc char_500_noirc
-char_285_medic2 char_285_medic2
-char_286_cast3 char_286_cast3
-char_286_cast3 char_286_cast3_summer_1
-char_376_therex char_376_therex
+デフォルト	チェン	char_010_chen	char_010_chen	6
+岁红霞	チェン	char_010_chen	char_010_chen_nian_2	6
+デフォルト	シージ	char_112_siege	char_112_siege	6
+LOSTSTONE	シージ	char_112_siege	char_112_siege_wild_2	6
+デフォルト	シャイニング	char_147_shining	char_147_shining	6
+安息の午夜 DN02	シャイニング	char_147_shining	char_147_shining_summer_1	6
+デフォルト	ナイチンゲール	char_179_cgbird	char_179_cgbird	6
+挽歌	ナイチンゲール	char_179_cgbird	char_179_cgbird_witch_1	6
+デフォルト	イフリータ	char_134_ifrit	char_134_ifrit	6
+サンライトSS.SP	イフリータ	char_134_ifrit	char_134_ifrit_summer_1	6
+儿童派对	イフリータ	char_134_ifrit	char_134_ifrit_kfc_1	6
+デフォルト	エイヤフィヤトラ	char_180_amgoat	char_180_amgoat	6
+デフォルト	エクシア	char_103_angel	char_103_angel	6
+荒野潜行	エクシア	char_103_angel	char_103_angel_wild_1	6
+城市骑手	エクシア	char_103_angel	char_103_angel_kfc_1	6
+デフォルト	アンジェリーナ	char_291_aglina	char_291_aglina	6
+质素访客	アンジェリーナ	char_291_aglina	char_291_aglina_boc_1	6
+デフォルト	シルバーアッシュ	char_172_svrash	char_172_svrash	6
+ヨークの寒風	シルバーアッシュ	char_172_svrash	char_172_svrash_snow_1	6
+デフォルト	ホシグマ	char_136_hsguma	char_136_hsguma	6
+狩标浪人	ホシグマ	char_136_hsguma	char_136_hsguma_nian_3	6
+デフォルト	サリア	char_202_demkni	char_202_demkni	6
+坚城	サリア	char_202_demkni	char_202_demkni_boc_1	6
+デフォルト	スカジ	char_263_skadi	char_263_skadi	6
+デフォルト	シュバルツ	char_340_shwaz	char_340_shwaz	6
+厚礼	シュバルツ	char_340_shwaz	char_340_shwaz_snow_1	6
+デフォルト	ヘラグ	char_188_helage	char_188_helage	6
+デフォルト	マゼラン	char_248_mgllan	char_248_mgllan	6
+デフォルト	モスティマ	char_213_mostma	char_213_mostma	6
+デフォルト	ブレイズ	char_017_huang	char_017_huang	6
+デフォルト	ア	char_225_haak	char_225_haak	6
+デフォルト	ニアン	char_2014_nian	char_2014_nian	6
+デフォルト	ケオベ	char_2013_cerber	char_2013_cerber	6
+デフォルト	バグパイプ	char_222_bpipe	char_222_bpipe	6
+デフォルト	ファントム	char_250_phatom	char_250_phatom	6
+デフォルト	W	char_113_cqbw	char_113_cqbw	6
+デフォルト	ウィーディ	char_400_weedy	char_400_weedy	6
+デフォルト	サベージ	char_230_savage	char_230_savage	5
+デフォルト	テキサス	char_102_texas	char_102_texas	5
+冬の使者	テキサス	char_102_texas	char_102_texas_winter_1	5
+デフォルト	ズィマー	char_115_headbr	char_115_headbr	5
+整装待发	ズィマー	char_115_headbr	char_115_headbr_marthe_2	5
+デフォルト	フィリオプシス	char_128_plosis	char_128_plosis	5
+幽静	フィリオプシス	char_128_plosis	char_128_plosis_epoque_3	5
+デフォルト	サイレンス	char_108_silent	char_108_silent	5
+漆匠	サイレンス	char_108_silent	char_108_silent_sweep_1	5
+デフォルト	ワルファリン	char_171_bldsk	char_171_bldsk	5
+盛宴	ワルファリン	char_171_bldsk	char_171_bldsk_witch_1	5
+デフォルト	アーミヤ	char_002_amiya	char_002_amiya	5
+新聞配達員	アーミヤ	char_002_amiya	char_002_amiya_winter_1	5
+见习联结者	アーミヤ	char_002_amiya	char_002_amiya_epoque_4	5
+デフォルト	ナイトメア	char_164_nightm	char_164_nightm	5
+デフォルト	スカイフレア	char_166_skfire	char_166_skfire	5
+温度差RT.RX01	スカイフレア	char_166_skfire	char_166_skfire_summer_1	5
+デフォルト	レッド	char_144_red	char_144_red	5
+デフォルト	マンティコア	char_215_mantic	char_215_mantic	5
+デフォルト	クリフハート	char_173_slchan	char_173_slchan	5
+高原访客	クリフハート	char_173_slchan	char_173_slchan_wwf_1	5
+登山家	クリフハート	char_173_slchan	char_173_slchan_wild_1	5
+デフォルト	エフイーター	char_241_panda	char_241_panda	5
+片场一角	エフイーター	char_241_panda	char_241_panda_marthe_1	5
+デフォルト	プロヴァンス	char_145_prove	char_145_prove	5
+デフォルト	アズリウス	char_129_bluep	char_129_bluep	5
+デフォルト	ファイヤーウォッチ	char_158_milu	char_158_milu	5
+枯柏	ファイヤーウォッチ	char_158_milu	char_158_milu_wild_2	5
+デフォルト	メテオリーテ	char_219_meteo	char_219_meteo	5
+石墨	メテオリーテ	char_219_meteo	char_219_meteo_sweep_1	5
+デフォルト	プラチナ	char_204_platnm	char_204_platnm	5
+デフォルト	プラマニクス	char_174_slbell	char_174_slbell	5
+カスターの霜	プラマニクス	char_174_slbell	char_174_slbell_snow_1	5
+デフォルト	イースチナ	char_195_glassb	char_195_glassb	5
+デフォルト	メイヤー	char_242_otter	char_242_otter	5
+デフォルト	ソラ	char_101_sora	char_101_sora	5
+夏の花弁 FA361	ソラ	char_101_sora	char_101_sora_summer_1	5
+デフォルト	フランカ	char_106_franka	char_106_franka	5
+デフォルト	スペクター	char_143_ghost	char_143_ghost	5
+暗流	スペクター	char_143_ghost	char_143_ghost_winter_1	5
+デフォルト	インドラ	char_155_tiger	char_155_tiger	5
+デフォルト	ラップランド	char_140_whitew	char_140_whitew	5
+典雅噩兆	ラップランド	char_140_whitew	char_140_whitew_boc_1	5
+デフォルト	ニアール	char_148_nearl	char_148_nearl	5
+デフォルト	リスカム	char_107_liskam	char_107_liskam	5
+春竜	リスカム	char_107_liskam	char_107_liskam_nian_2	5
+デフォルト	ヴァルカン	char_163_hpsts	char_163_hpsts	5
+デフォルト	クロワッサン	char_201_moeshd	char_201_moeshd	5
+清晨七点	クロワッサン	char_201_moeshd	char_201_moeshd_kfc_1	5
+デフォルト	グラニ	char_220_grani	char_220_grani	5
+デフォルト	スワイヤー	char_308_swire	char_308_swire	5
+富貴栄華	スワイヤー	char_308_swire	char_308_swire_nian_2	5
+デフォルト	グラウコス	char_326_glacus	char_326_glacus	5
+デフォルト	セイロン	char_348_ceylon	char_348_ceylon	5
+デフォルト	アステシア	char_274_astesi	char_274_astesi	5
+デフォルト	エンカク	char_131_flameb	char_131_flameb	5
+デフォルト	イグゼキュター	char_279_excu	char_279_excu	5
+無題密令	イグゼキュター	char_279_excu	char_279_excu_boc_1	5
+デフォルト	ブリーズ	char_275_breeze	char_275_breeze	5
+デフォルト	ワーイ・フー	char_243_waaifu	char_243_waaifu	5
+デフォルト	バイソン	char_325_bison	char_325_bison	5
+デフォルト	リード	char_261_sddrag	char_261_sddrag	5
+デフォルト	ブローカ	char_356_broca	char_356_broca	5
+デフォルト	グレイスロート	char_367_swllow	char_367_swllow	5
+归巢	グレイスロート	char_367_swllow	char_367_swllow_boc_1	5
+デフォルト	スノーズント	char_383_snsant	char_383_snsant	5
+デフォルト	ウン	char_226_hmau	char_226_hmau	5
+デフォルト	レイズ	char_306_leizi	char_306_leizi	5
+デフォルト	バイビーク	char_252_bibeak	char_252_bibeak	5
+デフォルト	シェーシャ	char_379_sesa	char_379_sesa	5
+デフォルト	シャマレ	char_254_vodfox	char_254_vodfox	5
+デフォルト	シデロカ	char_333_sidero	char_333_sidero	5
+デフォルト	エリジウム	char_401_elysm	char_401_elysm	5
+デフォルト	クーリエ	char_198_blackd	char_198_blackd	4
+新航路	クーリエ	char_198_blackd	char_198_blackd_winter_1	4
+デフォルト	スカベンジャー	char_149_scave	char_149_scave	4
+デフォルト	ヴィグナ	char_290_vigna	char_290_vigna	4
+ホリデーHD01	ヴィグナ	char_290_vigna	char_290_vigna_summer_1	4
+デフォルト	ミルラ	char_117_myrrh	char_117_myrrh	4
+辛味	ミルラ	char_117_myrrh	char_117_myrrh_wild_1	4
+デフォルト	ガヴィル	char_187_ccheal	char_187_ccheal	4
+戦医	ガヴィル	char_187_ccheal	char_187_ccheal_epoque_2	4
+デフォルト	パフューマー	char_181_flower	char_181_flower	4
+植物紀年	パフューマー	char_181_flower	char_181_flower_daily_1	4
+デフォルト	ヘイズ	char_141_nights	char_141_nights	4
+デフォルト	ギターノ	char_109_fmout	char_109_fmout	4
+未知的旅行	ギターノ	char_109_fmout	char_109_fmout_epoque_2	4
+デフォルト	グラベル	char_237_gravel	char_237_gravel	4
+デフォルト	ロープ	char_236_rope	char_236_rope	4
+おてんば魔女っこ	ロープ	char_236_rope	char_236_rope_witch_1	4
+デフォルト	ショウ	char_277_sqrrel	char_277_sqrrel	4
+デフォルト	シラユキ	char_118_yuki	char_118_yuki	4
+デフォルト	メテオ	char_126_shotst	char_126_shotst	4
+デフォルト	ジェシカ	char_235_jesica	char_235_jesica	4
+君子蘭	ジェシカ	char_235_jesica	char_235_jesica_nian_2	4
+燃灰	ジェシカ	char_235_jesica	char_235_jesica_wild_2	4
+鉄塊	ジェシカ	char_235_jesica	char_235_jesica_sweep_1	4
+デフォルト	ディピカ	char_110_deepcl	char_110_deepcl	4
+デフォルト	アーススピリット	char_183_skgoat	char_183_skgoat	4
+デフォルト	ドーベルマン	char_130_doberm	char_130_doberm	4
+デフォルト	エステル	char_127_estell	char_127_estell	4
+デフォルト	ビーハンター	char_137_brownb	char_137_brownb	4
+デフォルト	ムース	char_185_frncat	char_185_frncat	4
+デフォルト	フロストリーフ	char_193_frostl	char_193_frostl	4
+デフォルト	マトイマル	char_289_gyuki	char_289_gyuki	4
+デフォルト	クオーラ	char_150_snakek	char_150_snakek	4
+スクエア	クオーラ	char_150_snakek	char_150_snakek_wild_1	4
+デフォルト	グム	char_196_sunbr	char_196_sunbr	4
+夏の花弁FA011	グム	char_196_sunbr	char_196_sunbr_summer_1	4
+デフォルト	マッターホルン	char_199_yak	char_199_yak	4
+砂浜の番人 GT001	マッターホルン	char_199_yak	char_199_yak_summer_1	4
+デフォルト	グレイ	char_253_greyy	char_253_greyy	4
+デフォルト	ススーロ	char_298_susuro	char_298_susuro	4
+デフォルト	テンニンカ	char_151_myrtle	char_151_myrtle	4
+デフォルト	ジュナー	char_260_durnar	char_260_durnar	4
+デフォルト	ヴァーミル	char_190_clour	char_190_clour	4
+デフォルト	イーサン	char_355_ethan	char_355_ethan	4
+デフォルト	メイ	char_133_mm	char_133_mm	4
+デフォルト	アンブリエル	char_302_glaze	char_302_glaze	4
+デフォルト	セイリュウ	char_385_finlpp	char_385_finlpp	4
+デフォルト	ウタゲ	char_337_utage	char_337_utage	4
+デフォルト	コンヴィクション	char_159_peacok	char_159_peacok	4
+デフォルト	カッター	char_301_cutter	char_301_cutter	4
+デフォルト	フェン	char_123_fang	char_123_fang	3
+デフォルト	フェン	char_123_fang	char_123_fang_winter_1	3
+デフォルト	バニラ	char_240_wyvern	char_240_wyvern	3
+デフォルト	プリュム	char_192_falco	char_192_falco	3
+デフォルト	ハイビスカス	char_120_hibisc	char_120_hibisc	3
+除夜の者	ハイビスカス	char_120_hibisc	char_120_hibisc_nian_1	3
+デフォルト	アンセル	char_212_ansel	char_212_ansel	3
+ホリデーHDm06	アンセル	char_212_ansel	char_212_ansel_summer_1	3
+デフォルト	ラヴァ	char_121_lava	char_121_lava	3
+デフォルト	スチュワード	char_210_stward	char_210_stward	3
+デフォルト	クルース	char_124_kroos	char_124_kroos	3
+マジシャン	クルース	char_124_kroos	char_124_kroos_witch_1	3
+デフォルト	アドナキエル	char_211_adnach	char_211_adnach	3
+デフォルト	オーキッド	char_278_orchid	char_278_orchid	3
+デフォルト	メランサ	char_208_melan	char_208_melan	3
+ウェセックスレター	メランサ	char_208_melan	char_208_melan_epoque_1	3
+デフォルト	ビーグル	char_122_beagle	char_122_beagle	3
+デフォルト	カーディ	char_209_ardign	char_209_ardign	3
+快乐卫士	カーディ	char_209_ardign	char_209_ardign_snow_1	3
+デフォルト	カタパルト	char_282_catap	char_282_catap	3
+デフォルト	ミッドナイト	char_283_midn	char_283_midn	3
+第七夜苏醒魔君	ミッドナイト	char_283_midn	char_283_midn_boc_1	3
+デフォルト	ポプカル	char_281_popka	char_281_popka	3
+デフォルト	スポット	char_284_spot	char_284_spot	3
+デフォルト	ヤトウ	char_502_nblade	char_502_nblade	2
+デフォルト	ドゥリン	char_501_durin	char_501_durin	2
+デフォルト	12F	char_009_12fce	char_009_12fce	2
+デフォルト	レンジャー	char_503_rang	char_503_rang	2
+デフォルト	ノイルホーン	char_500_noirc	char_500_noirc	2
+デフォルト	Lancet-2	char_285_medic2	char_285_medic2	1
+デフォルト	Castle-3	char_286_cast3	char_286_cast3	1
+SUM019.ver	Castle-3	char_286_cast3	char_286_cast3_summer_1	1
+デフォルト	THRM-EX	char_376_therex	char_376_therex	1
